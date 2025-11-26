@@ -21,7 +21,6 @@ Dijital içerik üretimi, video editörlüğü ve web geliştirme alanlarında �
 
 ## 👤 Hakkımda
 GÖKDENİZ SAĞLAM
-- 📍 Yalova, Türkiye
 - 🎬 Video Editörü
 - 💻 Web Developer
 - 📝 Content Creator
