@@ -27,7 +27,6 @@ GÖKDENİZ SAĞLAM
 
 ## 📧 İletişim
 - Email: info@gokdenizsaglam.com
-- 
 ## 📄 Lisans
 Bu proje kişisel kullanım amaçlıdır. Tasarım ve konsept hakları saklıdır.
 
